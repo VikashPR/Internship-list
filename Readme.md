@@ -28,6 +28,21 @@ This repository is licensed under the [MIT License](LICENSE).
 - Himahuja (Research-Internships-for-Undergraduates repository) [~](https://github.com/himahuja/Research-Internships-for-Undergraduates)
 - vvignesh17 (List-of-all-Research-Internship-Program-for-IIT-and-NITs) [~](https://github.com/vvignesh17/List-of-all-Research-Internship-Program-for-IIT-and-NITs?tab=readme-ov-file)
 
+# Corporate Internships
+
+| Company | Industry | Internship Type | Monthly Stipend (INR) | Internship Opportunities For Students |
+|---------|----------|-----------------|-----------------------|---------------------------------------|
+| TCS | IT services, consulting, and business solutions | Paid and unpaid | INR 12,000 - INR 40,000 | Off Campus hiring, iON Remote Internships, Research Internship, Digital Marketing Internship, Financial Services Internship |
+| Infosys | IT services and consulting | Paid and unpaid | INR 10,000 - INR 20,000 | InStep, Summer Internship, Winter Internship, Digital Marketing Internship, Financial Services Internship |
+| Wipro | IT services | Paid and unpaid | INR 10,000 - INR 20,000 | Next Internship, WILP, Digital Marketing Internship, Financial Services Internship, Women in Technology Internship |
+| Reliance Industries Limited | Conglomerate | Paid and unpaid | INR 10,000 - INR 20,000 | Summer Internship Program, Jio Internship, Retail Internship, Foundation Internship |
+| Hindustan Unilever Limited | FMCG | Paid and unpaid | INR 10,000 - INR 20,000 | Summer Internship Program, Women in Leadership Internship, Social Impact Internship, Digital Marketing Internship |
+| IBM India | IT services | Paid and unpaid | INR 10,000 - INR 20,000 | Summer Internship Program, Wipro Next Internship, Research Indian Internship, Digital Transformation Internship |
+| Google India | IT services | Paid and unpaid | INR 30,000 - INR 60,000 | Software Engineering Internship, Business Intern, UX Design Intern, Product Marketing Intern, Data Science Intern |
+| Microsoft India | IT services | Paid and unpaid | INR 30,000 - INR 60,000 | Summer Intern Program, Women in Engineering (WiE) Internship, Research India Internship, Digital Transformation Internship |
+| Amazon India | E-commerce and IT services | Paid and unpaid | INR 30,000 - INR 60,000 | Software Development Intern, Business Intern, UX Design Intern, Product Marketing Intern, Data Science Intern, Cloud Computing Intern, Machine Learning Intern, Artificial Intelligence Intern |
+| Flipkart | E-commerce | Paid and unpaid | INR 25,000 - INR 35,000 | - |
+
 
 # International Internships
 
