@@ -29,7 +29,7 @@ This repository is licensed under the [MIT License](LICENSE).
 - vvignesh17 (List-of-all-Research-Internship-Program-for-IIT-and-NITs) [~](https://github.com/vvignesh17/List-of-all-Research-Internship-Program-for-IIT-and-NITs?tab=readme-ov-file)
 
 
-# -------- International Internships --------
+# International Internships
 
 ### 1. [MITACS Gloablink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.
    #### Eligibility : CGPA>8 
