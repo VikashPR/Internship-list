@@ -23,7 +23,6 @@ Let's work together to make this repository a valuable resource for undergraduat
 
 ## License
 
-
 This repository is licensed under the [MIT License](LICENSE).
 
 ## Credits
