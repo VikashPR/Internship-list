@@ -25,6 +25,7 @@ Let's work together to make this repository a valuable resource for undergraduat
 
 This repository is licensed under the [MIT License](LICENSE).
 
+
 ## Credits
 
 - Himahuja (Research-Internships-for-Undergraduates repository) [~](https://github.com/himahuja/Research-Internships-for-Undergraduates)
