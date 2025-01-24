@@ -665,4 +665,3 @@ This repository is licensed under the [MIT License](LICENSE).
   * [Amgen Scholars Program](https://amgenscholars.com/)
   * [UX Research Internship, Red Hat](https://us-redhat.icims.com/jobs/83084/remote-us-nc/job)
   * [Allen Institute for AI, Research and Engineering Internships](https://allenai.org/internships)
-
