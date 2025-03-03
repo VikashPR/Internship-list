@@ -2,6 +2,8 @@
 
 > Welcome to the Internship List repository! Here you will find a curated list of internships specifically designed for undergraduate students. Whether you're looking for a summer internship or a part-time opportunity during the academic year, this repository has got you covered.
 
+🚀 [MAANG INTERVIEW PREP 100 DSA Questions](https://github.com/VikashPR/MAANG-Interview-Prep-100-DSA) from the same author
+
 ⭐️ Don't forget to star this repository to keep track of it! Once starred, you can easily find it in your list of starred repositories. 🙂
 
 ## Features
